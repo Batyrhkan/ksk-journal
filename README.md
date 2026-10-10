@@ -1,2 +1,0 @@
-# ksk-journal
-ksk-journal
